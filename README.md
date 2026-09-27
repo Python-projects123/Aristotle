@@ -5,3 +5,6 @@ Dragon bowl, but no AI usage and more categories.
 
 
   Please do not fork this repository with AI code, or your forked version will be rejected.
+
+
+  Name Aristotle came from a name of a Greek philosopher.
